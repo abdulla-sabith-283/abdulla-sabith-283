@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, Welcome
 
 <!--
 **abdulla-sabith-283/abdulla-sabith-283** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+My name is Abdulla Sabith. I am a CS undergrad
+currently exploring ML and web dev
